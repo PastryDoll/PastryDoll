@@ -1,5 +1,6 @@
 ### Hi there 👋
-pastrydoll.github.io
+[pastrydoll.github.io](pastrydoll.github.io)  <-- Thats me trying WASM
+
 
 <!--
 **PastryDoll/PastryDoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
